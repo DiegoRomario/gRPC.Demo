@@ -1,0 +1,17 @@
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\gRPCDemoClient.exe
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\obj\Debug\netcoreapp3.1\gRPCDemoClient.csprojAssemblyReference.cache
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\obj\Debug\netcoreapp3.1\gRPCDemoClient.AssemblyInfoInputs.cache
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\obj\Debug\netcoreapp3.1\gRPCDemoClient.AssemblyInfo.cs
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\obj\Debug\netcoreapp3.1\gRPCDemoClient.csproj.CopyComplete
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\gRPCDemoClient.deps.json
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\gRPCDemoClient.runtimeconfig.json
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\gRPCDemoClient.runtimeconfig.dev.json
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\gRPCDemoClient.dll
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\bin\Debug\netcoreapp3.1\gRPCDemoClient.pdb
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\obj\Debug\netcoreapp3.1\gRPCDemoClient.dll
+C:\gitRepository\gRPC.Demo\src\gRPCDemoClient\obj\Debug\netcoreapp3.1\gRPCDemoClient.pdb
